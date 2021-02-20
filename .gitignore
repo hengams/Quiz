@@ -6,7 +6,7 @@
 *.lo
 *.o
 *.obj
-
+سوال/
 # Precompiled Headers
 *.gch
 *.pch
